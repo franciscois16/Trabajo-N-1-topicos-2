@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:servicios\\servicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\servicios\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:servicios\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\models\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:models\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\models\\paquetedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:models\\paquetedetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\views\\home\\mantenedorobjetos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:views\\home\\mantenedorobjetos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\models\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:models\\objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\views\\home\\objeto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:views\\home\\objeto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|c:\\users\\franc\\onedrive\\escritorio\\trabajo n\u00B01 topicos 2\\inventarioapi\\inventarioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9933929-8EB3-4299-8747-690BF6635054}|InventarioWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaqueteDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\PaqueteDetalle.cs",
+              "RelativeDocumentMoniker": "Models\\PaqueteDetalle.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\PaqueteDetalle.cs",
+              "RelativeToolTip": "Models\\PaqueteDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Objeto.cshtml",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Home\\Objeto.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Objeto.cshtml",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Home\\Objeto.cshtml",
+              "RelativeToolTip": "Views\\Home\\Objeto.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:38:33.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:38:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MantenedorObjetos.cshtml",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Home\\MantenedorObjetos.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MantenedorObjetos.cshtml",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Views\\Home\\MantenedorObjetos.cshtml",
+              "RelativeToolTip": "Views\\Home\\MantenedorObjetos.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T18:38:33.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RespuestaAPI.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\RespuestaAPI.cs",
+              "RelativeDocumentMoniker": "Models\\RespuestaAPI.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\RespuestaAPI.cs",
+              "RelativeToolTip": "Models\\RespuestaAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Objeto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\Objeto.cs",
+              "RelativeDocumentMoniker": "Models\\Objeto.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Models\\Objeto.cs",
+              "RelativeToolTip": "Models\\Objeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Servicios.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Servicios\\Servicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\Servicios.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Servicios\\Servicios.cs",
+              "RelativeToolTip": "Servicios\\Servicios.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServicios.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Servicios\\IServicios.cs",
+              "RelativeDocumentMoniker": "Servicios\\IServicios.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Servicios\\IServicios.cs",
+              "RelativeToolTip": "Servicios\\IServicios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\franc\\OneDrive\\Escritorio\\Trabajo N\u00B01 topicos 2\\InventarioAPI\\InventarioWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:38:33.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

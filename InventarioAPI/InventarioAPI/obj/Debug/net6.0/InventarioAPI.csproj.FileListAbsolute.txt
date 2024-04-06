@@ -1,0 +1,152 @@
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.exe
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.deps.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.runtimeconfig.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.pdb
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.AssemblyReference.cache
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfoInputs.cache
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfo.cs
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.InventarioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InventarioAPI.props
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventarioAPI.props
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventarioAPI.props
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\scopedcss\bundle\InventarioAPI.styles.css
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CopyComplete
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\refint\InventarioAPI.dll
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.pdb
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.genruntimeconfig.cache
+C:\Users\laepi\Documents\Umag\Topicos II\Inv\InventarioAPI\InventarioAPI\obj\Debug\net6.0\ref\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.exe
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.deps.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.runtimeconfig.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.pdb
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfo.cs
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.InventarioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\scopedcss\bundle\InventarioAPI.styles.css
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CopyComplete
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\refint\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.pdb
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.genruntimeconfig.cache
+C:\Users\lucas\Documents\Umag\2023\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\ref\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.AssemblyReference.cache
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfo.cs
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\refint\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.pdb
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.exe
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.deps.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.runtimeconfig.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.pdb
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.InventarioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventarioAPI.props
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\scopedcss\bundle\InventarioAPI.styles.css
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CopyComplete
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.genruntimeconfig.cache
+C:\Users\lucas\Documents\Umag\2024\Topicos II\Trabajo N°1\InventarioAPI\InventarioAPI\obj\Debug\net6.0\ref\InventarioAPI.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.exe
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.deps.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.runtimeconfig.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\InventarioAPI.pdb
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.InventarioAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.InventarioAPI.props
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InventarioAPI.props
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InventarioAPI.props
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\scopedcss\bundle\InventarioAPI.styles.css
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\Inventar.63A8EA75.Up2Date
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\refint\InventarioAPI.dll
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.pdb
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\InventarioAPI.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Escritorio\Trabajo N°1 topicos 2\InventarioAPI\InventarioAPI\obj\Debug\net6.0\ref\InventarioAPI.dll

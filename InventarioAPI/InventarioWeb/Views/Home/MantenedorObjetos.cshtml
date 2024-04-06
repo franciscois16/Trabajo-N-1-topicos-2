@@ -1,0 +1,27 @@
+﻿@model List<Objeto>
+
+@{
+    ViewData["Title"] = "Mantenedor Objetos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Objetos</h1>
+
+<a asp-action="Objeto" asp-controller="Home" type="button">Agregar Objeto</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                ID
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.obId</td>
+            </tr>
+        }
+    </tbody>
+</table>

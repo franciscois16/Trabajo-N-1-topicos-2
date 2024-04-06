@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\InventarioAPI",
+    "\\InventarioAPI\\InventarioWeb",
+    "\\InventarioAPI\\InventarioWeb\\Controllers"
+  ],
+  "SelectedNode": "\\InventarioAPI\\InventarioWeb\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

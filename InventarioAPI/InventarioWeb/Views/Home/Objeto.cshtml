@@ -1,0 +1,17 @@
+﻿@model Objeto
+@{
+    ViewData["Title"] = "Objeto";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Objeto</h1>
+
+
+<form asp-action="CMObjeto" asp-controller="Home" method="post">
+    <div>
+        <label class="form-label">ID</label>
+        <input type="text" asp-for="obId" />
+
+    </div>
+    <button type="submit">Aceptar</button>
+</form>
